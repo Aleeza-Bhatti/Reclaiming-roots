@@ -31,4 +31,6 @@ Reclaiming Roots allows governments, Indigenous communities, and citizens to acc
 - Build a full website using **React** and a stronger backend database
 - Partner directly with Indigenous communities to co-design and expand the platform
 - Integrate real surplus land datasets and environmental monitoring features
-
+## Try it out
+Website prototype
+https://www.figma.com/proto/JCxxQ5ZRqjwbV2oeKsEDFZ/Reclaiming-Roots?node-id=3-4&p=f&t=TTiuZYsxBnKtPHud-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=3%3A4 
